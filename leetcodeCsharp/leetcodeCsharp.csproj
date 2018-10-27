@@ -51,12 +51,16 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Class1.cs" />
     <Compile Include="HelloWorld.cs" />
     <Compile Include="InverseIntegerSolution.cs" />
+    <Compile Include="LongestSubstring.cs" />
     <Compile Include="RemoveNthFromEnd.cs" />
     <Compile Include="SwapPairsSolution.cs" />
     <Compile Include="ThreeSumClosestSolution.cs" />
     <Compile Include="MainSolution.cs" />
+    <Compile Include="ThreeSumSolution.cs" />
+    <Compile Include="ValidParenthesisSolution.cs" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
