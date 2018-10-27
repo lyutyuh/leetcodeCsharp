@@ -53,6 +53,7 @@
   <ItemGroup>
     <Compile Include="HelloWorld.cs" />
     <Compile Include="InverseIntegerSolution.cs" />
+    <Compile Include="RemoveNthFromEnd.cs" />
     <Compile Include="SwapPairsSolution.cs" />
     <Compile Include="ThreeSumClosestSolution.cs" />
     <Compile Include="MainSolution.cs" />

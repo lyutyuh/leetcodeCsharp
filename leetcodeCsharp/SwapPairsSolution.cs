@@ -16,8 +16,7 @@ namespace leetcodeCsharp
     {
         public ListNode SwapPairs(ListNode head)
         {
-            if(head == null || head.next == null)
-            {
+            if (head == null || head.next == null) {
                 return head;
             }
 
@@ -28,7 +27,7 @@ namespace leetcodeCsharp
             tmp = ans.next;
             ans.next = head;
             head.next = SwapPairs(tmp);
-            
+
             return ans;
 
         }

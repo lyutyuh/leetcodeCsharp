@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace leetcodeCsharp
 {
-    class MainSolution{
+    class MainSolution
+    {
         static void Main()
         {
             HelloWorld.SayHello();
