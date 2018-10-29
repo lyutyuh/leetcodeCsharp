@@ -12,7 +12,7 @@ namespace tryCSharp
         public ListNode(int x) { val = x; }
     }
 
-    class Class1
+    class AddTwoNumbersSolution
     {
 
         private ListNode RecurAdd(ListNode l1, ListNode l2, int carry)

@@ -51,7 +51,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="AddTwoNumbersSolution.cs" />
+    <Compile Include="GroupAnagramsSolution.cs" />
     <Compile Include="HelloWorld.cs" />
     <Compile Include="InverseIntegerSolution.cs" />
     <Compile Include="LongestSubstring.cs" />
