@@ -56,6 +56,7 @@
     <Compile Include="HelloWorld.cs" />
     <Compile Include="InverseIntegerSolution.cs" />
     <Compile Include="LongestSubstring.cs" />
+    <Compile Include="PermutationsSolution.cs" />
     <Compile Include="RemoveNthFromEnd.cs" />
     <Compile Include="SwapPairsSolution.cs" />
     <Compile Include="ThreeSumClosestSolution.cs" />

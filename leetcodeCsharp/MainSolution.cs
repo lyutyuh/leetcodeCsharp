@@ -10,7 +10,9 @@ namespace leetcodeCsharp
     {
         static void Main()
         {
-            HelloWorld.SayHello();
+            PermutationsSolution ps = new PermutationsSolution();
+            IList<IList<int>> toPrint = ps.Permute(new int[3] { 1,2,3});
+            Console.WriteLine(toPrint);
             Console.WriteLine("Main() finished execution. Press any key to continue.");
             Console.ReadKey();
             return;
