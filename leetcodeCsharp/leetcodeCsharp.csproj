@@ -58,6 +58,7 @@
     <Compile Include="LongestSubstring.cs" />
     <Compile Include="PermutationsSolution.cs" />
     <Compile Include="RemoveNthFromEnd.cs" />
+    <Compile Include="RotateImageSolution.cs" />
     <Compile Include="SwapPairsSolution.cs" />
     <Compile Include="ThreeSumClosestSolution.cs" />
     <Compile Include="MainSolution.cs" />
