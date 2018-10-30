@@ -10,9 +10,8 @@ namespace leetcodeCsharp
     {
         static void Main()
         {
-            RotateImageSolution ris = new RotateImageSolution();
-            ris.Rotate(new int[,] { { 1, 2, 3 }, { 4, 5, 6 },{ 7, 8, 9 } });
-
+            MaximumSwapSolution mss = new MaximumSwapSolution();
+            Console.WriteLine(mss.swapTwoDigits(1234567, 3, 6));
             Console.WriteLine("Main() finished execution. Press any key to continue.");
             Console.ReadKey();
             return;
